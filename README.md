@@ -15,5 +15,6 @@ How to Use:
 Questions: 
 
 Q: If I call the static method and make my own button, where does the script need to be in my project?
+
 A: The script can be anywhere you want it to be. It doesn't have to exist in the scene either. The most common place is in a folder called "Plugins"
 
